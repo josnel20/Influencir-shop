@@ -14,5 +14,5 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/influencir-shop.git
+git clone https://github.com/josnel20/Influencir-shop.git
 cd influencir-shop
